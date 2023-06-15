@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T22:54:32 CEST" name="Default suite" finished-at="2023-06-04T22:54:43 CEST" duration-ms="10453">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T22:54:32 CEST" name="Default test" finished-at="2023-06-04T22:54:43 CEST" duration-ms="10453">
+      <class name="MyMavenProject.MymavenProject.MainTestPOM">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyMavenProject.MymavenProject.MainTestPOM@24fcf36f]" started-at="2023-06-04T22:54:30 CEST" name="setup" finished-at="2023-06-04T22:54:32 CEST" duration-ms="2141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validlog()[pri:0, instance:MyMavenProject.MymavenProject.MainTestPOM@24fcf36f]" started-at="2023-06-04T22:54:32 CEST" name="validlog" finished-at="2023-06-04T22:54:43 CEST" duration-ms="10410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validlog -->
+      </class> <!-- MyMavenProject.MymavenProject.MainTestPOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
